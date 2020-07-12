@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjerry.github.io/)](https://jjerry-k.github.io/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeeyol2931@gmail.com)](mailto:jaeeyol2931@gmail.com)
+
+이것 저것 문어마냥 발을 담그고 있는 **Jerry** 입니다.
+ 
 
 <!--
 **jjerry-k/jjerry-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
