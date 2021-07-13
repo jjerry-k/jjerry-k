@@ -17,7 +17,7 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
-
+![snake gif](https://github.com/jjerry-k/jjerry-k/blob/output/github-contribution-grid-snake.gif)
 <!--
 **jjerry-k/jjerry-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
