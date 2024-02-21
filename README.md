@@ -6,6 +6,12 @@
 
 [![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jjerry-k)](https://github.com/jjerry-k)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jjerry-k/jjerry-k/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjerry-k/jjerry-k/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jjerry-k/jjerry-k/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjerry.github.io/)](https://jjerry-k.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeeyol2931@gmail.com)](mailto:jaeeyol2931@gmail.com)
 
